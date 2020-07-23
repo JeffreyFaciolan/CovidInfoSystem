@@ -2,8 +2,5 @@
 "activeCases" : "89",
 "recovered" : "12",
 "died" : "2",
-"NorthMin" :
- [{ "location" : "Bukidnon",
-   
-   }]
+"location" : "Bukidnon"
 }
