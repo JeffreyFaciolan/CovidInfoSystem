@@ -2,11 +2,14 @@
 "activeCases" : "89",
 "recovered" : "12",
 "died" : "2",
+
+ "Iligan" : "7",
+  "Bukidnon" : "11",
+  "Camiguin" : "4",
+  "LanaoDelNorte" : "4",
+  "MisamisOcc" : "21",
+  "MisamisOr" : "8",
+  "CagayanDeOro" : "54"
  
- "NorthMin" : 
- [{
-"location" : "BUKIDNON",
- "numberofcases" : "3"
- }]
  
 }
